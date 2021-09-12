@@ -1,6 +1,6 @@
 # ft_itoa_base
 
-Assignment name  : ft_itoa_base
+*Assignment name  : ft_itoa_base*
 Expected files   : ft_itoa_base.c
 Allowed functions: malloc
 --------------------------------------------------------------------------------
