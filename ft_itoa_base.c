@@ -18,6 +18,7 @@ int		ft_nbr_len(int nb, int base)
 }
 
 
+
 char	*ft_strdup(char *str)
 {
 	int		i;
