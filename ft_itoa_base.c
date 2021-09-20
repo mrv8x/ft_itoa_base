@@ -1,6 +1,7 @@
 
 #include <stdlib.h>
 
+
 int		ft_nbr_len(int nb, int base)
 {
 	int i;
